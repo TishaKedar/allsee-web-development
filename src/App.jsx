@@ -10,6 +10,7 @@ import Categories from "./pages/Categories";
 import MainCategory from "./pages/MainCategory";
 import SubCategory from "./pages/SubCategory";
 
+
 function App() {
   return (
     <ThemeProvider theme={theme}>
